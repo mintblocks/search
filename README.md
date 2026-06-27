@@ -1,5 +1,5 @@
 # mintblocks
-#### this is the homepage of mintblocks. it is forked from scratch-www, but i will remove everything except the homepage stuff
+#### this is the search page of mintblocks.
 
 <!-- # scratch-www
 #### Standalone web client for Scratch
